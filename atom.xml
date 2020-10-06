@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lrkouzi.github.io</id>
     <title>z_dreamer</title>
-    <updated>2020-09-28T12:31:04.652Z</updated>
+    <updated>2020-10-06T13:26:26.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lrkouzi.github.io"/>
     <link rel="self" href="https://lrkouzi.github.io/atom.xml"/>
@@ -378,6 +378,38 @@
         </link>
         <updated>2014-03-04T04:46:00.000Z</updated>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://lrkouzi.github.io/post-images/1601280743893.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的博客今天4岁345天了，我领取了风云博主徽章]]></title>
+        <id>https://lrkouzi.github.io/post/feng-yun-bo-zhu/</id>
+        <link href="https://lrkouzi.github.io/post/feng-yun-bo-zhu/">
+        </link>
+        <updated>2012-09-29T11:51:00.000Z</updated>
+        <content type="html"><![CDATA[<p>我的博客今天4岁345天了，我领取了风云博主徽章</p>
+<p>2007.10.21，我在新浪博客安家。<br>
+2007.10.27，我写下了第一篇博文：《被世界遗忘的人更懂世界》。<br>
+2008.05.11，我上传了第一张图片到相册。<br>
+至今，我的博客共获得2,591次访问。<br>
+这些年，新浪博客伴我点点滴滴谱写生活！</p>
+<p>春山<br>
+haha 我的是五岁~~<br>
+2013-2-17  03:16</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[陌生人]]></title>
+        <id>https://lrkouzi.github.io/post/mo-sheng-ren/</id>
+        <link href="https://lrkouzi.github.io/post/mo-sheng-ren/">
+        </link>
+        <updated>2012-08-07T05:41:37.000Z</updated>
+        <content type="html"><![CDATA[<p>对于网络这样一个半虚幻的世界，陌生人才是最可靠的吧。</p>
+<p>总有一两个私密的窝是不想被现实中的熟人见到的。</p>
+<p>微博被攻陷了呢……</p>
+<p>所以就更想要保留好这块还算秘密的小土地。</p>
+<p>呐，暑假并不好玩呢。</p>
+<p>就这样啦～～</p>
+<p>高三见！</p>
 ]]></content>
     </entry>
 </feed>
