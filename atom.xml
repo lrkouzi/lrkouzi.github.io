@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://lrkouzi.github.io</id>
+    <title>z_dreamer</title>
+    <updated>2025-11-15T10:14:18.621Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://lrkouzi.github.io"/>
+    <link rel="self" href="https://lrkouzi.github.io/atom.xml"/>
+    <subtitle>lrkouzi&apos;s diaries&lt;br&gt;only diaries&lt;br&gt; trying to feel the world and describe myself</subtitle>
+    <logo>https://lrkouzi.github.io/images/avatar.png</logo>
+    <icon>https://lrkouzi.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, z_dreamer</rights>
+    <entry>
+        <title type="html"><![CDATA[项脊生]]></title>
+        <id>https://lrkouzi.github.io/post/xiang-ji-sheng/</id>
+        <link href="https://lrkouzi.github.io/post/xiang-ji-sheng/">
+        </link>
+        <updated>2025-11-13T06:03:29.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[忤逆]]></title>
+        <id>https://lrkouzi.github.io/post/wu-ni/</id>
+        <link href="https://lrkouzi.github.io/post/wu-ni/">
+        </link>
+        <updated>2022-03-30T04:12:53.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[思想之争]]></title>
+        <id>https://lrkouzi.github.io/post/si-xiang-zhi-zheng/</id>
+        <link href="https://lrkouzi.github.io/post/si-xiang-zhi-zheng/">
+        </link>
+        <updated>2022-03-30T04:12:34.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[争执]]></title>
+        <id>https://lrkouzi.github.io/post/zheng-zhi/</id>
+        <link href="https://lrkouzi.github.io/post/zheng-zhi/">
+        </link>
+        <updated>2021-05-04T10:01:12.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蚁民]]></title>
+        <id>https://lrkouzi.github.io/post/yi-min/</id>
+        <link href="https://lrkouzi.github.io/post/yi-min/">
+        </link>
+        <updated>2020-12-11T12:36:20.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[梦记 20201122]]></title>
+        <id>https://lrkouzi.github.io/post/meng-ji-20201122/</id>
+        <link href="https://lrkouzi.github.io/post/meng-ji-20201122/">
+        </link>
+        <updated>2020-11-22T11:51:06.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[遗书]]></title>
+        <id>https://lrkouzi.github.io/post/yi-shu/</id>
+        <link href="https://lrkouzi.github.io/post/yi-shu/">
+        </link>
+        <updated>2020-10-30T06:45:50.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文]]></title>
+        <id>https://lrkouzi.github.io/post/wen/</id>
+        <link href="https://lrkouzi.github.io/post/wen/">
+        </link>
+        <updated>2020-04-28T18:01:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[写作]]></title>
+        <id>https://lrkouzi.github.io/post/xie-zuo/</id>
+        <link href="https://lrkouzi.github.io/post/xie-zuo/">
+        </link>
+        <updated>2020-03-05T16:08:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[凌虐]]></title>
+        <id>https://lrkouzi.github.io/post/ling-nue/</id>
+        <link href="https://lrkouzi.github.io/post/ling-nue/">
+        </link>
+        <updated>2019-12-24T12:55:00.000Z</updated>
+    </entry>
+</feed>
